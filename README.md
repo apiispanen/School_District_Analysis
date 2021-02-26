@@ -1,5 +1,5 @@
 # School_District_Analysis
-School District testing analysis 
+Data cleaning and School District testing analysis.
 
 ## Summary
 The purpose of the project is to evaluate data for the school board. Evidence shows that certain classes may have cheated, and our goal with the project is to alter and evaluate data while keeping non-cheating parties' data intact.
@@ -21,8 +21,10 @@ Jupyter Notebooks
 ## Results
 During our analysis, we discovered the following trends in our data:
 
-- <strong>District Summary</strong>: 
+- <strong>District Summary</strong>: Based on the district data, 
 
+![image of District Analysis](Images/district_summary_by_school.png)
+![image of District Analysis](Images/district_summary.png)
 - <strong>School Summary</strong>:
 
 - <strong>Replacing Ninth Graders at Thomas High School</strong>:
